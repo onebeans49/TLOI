@@ -1,4 +1,4 @@
-Taeilm 등대공장에서 OI(Operation Inteligence)를 운영함에 있어서 협업할 때 만들었던 모델 정리입니다.
+등대공장에서 OI(Operation Inteligence)를 운영함에 있어서 협업할 때 만들었던 모델 정리입니다.
 
 ## **프로젝트 개요**
 
